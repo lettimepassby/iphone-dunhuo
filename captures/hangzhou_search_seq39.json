@@ -1,0 +1,202 @@
+{
+  "searchInput": "浙江 杭州 上城区",
+  "selectStore": "R401",
+  "address": {
+    "state": "浙江",
+    "city": "杭州",
+    "district": "上城区",
+    "provinceCityDistrict": "浙江 杭州 上城区"
+  },
+  "actions": {
+    "select": {
+      "url": "/shop/checkoutx/fulfillment?_a=select&_m=checkout.fulfillment.pickupTab.pickup.storeLocator",
+      "submit": true
+    },
+    "search": {
+      "url": "/shop/checkoutx/fulfillment?_a=search&_m=checkout.fulfillment.pickupTab.pickup.storeLocator",
+      "submit": true
+    }
+  },
+  "stores": [
+    {
+      "storeId": "R471",
+      "storeName": "Apple 西湖",
+      "storeDisabled": true,
+      "distance": "2.11 km",
+      "phoneNumber": "4006171302",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "杭州",
+        "district": "上城区",
+        "street": "杭州市上城区平海路 100 号"
+      }
+    },
+    {
+      "storeId": "R532",
+      "storeName": "Apple 杭州万象城",
+      "storeDisabled": true,
+      "distance": "3.95 km",
+      "phoneNumber": "4006171304",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "杭州",
+        "district": "上城区",
+        "street": "杭州市上城区富春路 701 号"
+      }
+    },
+    {
+      "storeId": "R688",
+      "storeName": "Apple 苏州",
+      "storeDisabled": true,
+      "distance": "129.02 km",
+      "phoneNumber": "4006139775",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "苏州",
+        "district": "虎丘区",
+        "street": "苏州市苏州工业园区"
+      }
+    },
+    {
+      "storeId": "R531",
+      "storeName": "Apple 天一广场",
+      "storeDisabled": true,
+      "distance": "138.81 km",
+      "phoneNumber": "4006139774",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "宁波",
+        "district": "海曙区",
+        "street": "宁波市海曙区碶闸街 155 号"
+      }
+    },
+    {
+      "storeId": "R574",
+      "storeName": "Apple 无锡恒隆广场",
+      "storeDisabled": true,
+      "distance": "148.94 km",
+      "phoneNumber": "4006171325",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "无锡",
+        "district": "梁溪区",
+        "street": "无锡市梁溪区"
+      }
+    },
+    {
+      "storeId": "R705",
+      "storeName": "Apple 七宝",
+      "storeDisabled": true,
+      "distance": "151.54 km",
+      "phoneNumber": "4006139773",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "上海",
+        "district": "闵行区",
+        "street": "上海市闵行区漕宝路 3366 号 "
+      }
+    },
+    {
+      "storeId": "R683",
+      "storeName": "Apple 环球港",
+      "storeDisabled": true,
+      "distance": "161.69 km",
+      "phoneNumber": "4006171335",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "上海",
+        "district": "普陀区",
+        "street": "上海市普陀区中山北路 3300 号"
+      }
+    },
+    {
+      "storeId": "R678",
+      "storeName": "Apple 静安",
+      "storeDisabled": true,
+      "distance": "163.39 km",
+      "phoneNumber": "4000003235",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "上海",
+        "district": "静安区",
+        "street": "上海市静安区南京西路 1699 号"
+      }
+    },
+    {
+      "storeId": "R401",
+      "storeName": "Apple 上海环贸 iapm",
+      "storeDisabled": true,
+      "distance": "163.73 km",
+      "phoneNumber": "4006171324",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "上海",
+        "district": "徐汇区",
+        "street": "上海市徐汇区淮海中路 999 号"
+      }
+    },
+    {
+      "storeId": "R390",
+      "storeName": "Apple 香港广场",
+      "storeDisabled": true,
+      "distance": "165.51 km",
+      "phoneNumber": "4006171312",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "上海",
+        "district": "黄浦区",
+        "street": "上海市黄浦区淮海中路 282 号"
+      }
+    },
+    {
+      "storeId": "R359",
+      "storeName": "Apple 南京东路",
+      "storeDisabled": true,
+      "distance": "167.22 km",
+      "phoneNumber": "4006639988",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "上海",
+        "district": "黄浦区",
+        "street": "上海市黄浦区南京东路 300 号"
+      }
+    },
+    {
+      "storeId": "R389",
+      "storeName": "Apple 浦东",
+      "storeDisabled": true,
+      "distance": "168.46 km",
+      "phoneNumber": "4006171305",
+      "storeAvailability": "目前不可取货",
+      "pickupMethod": "店内取货",
+      "availableNowForAllLines": false,
+      "address": {
+        "city": "上海",
+        "district": "浦东新区",
+        "street": "上海市浦东新区陆家嘴世纪大道 8 号"
+      }
+    }
+  ]
+}

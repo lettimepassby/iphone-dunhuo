@@ -1,0 +1,97 @@
+{
+  "storeId": "R471",
+  "enableTimeSlotWindows": true,
+  "firstAvailableDate": "september 19 2026",
+  "pickUpDates": [
+    {
+      "dayOfWeek": "周五",
+      "monthValue": "9",
+      "dayOfMonth": "18",
+      "fullDayOfWeek": "星期五",
+      "displayDate": "",
+      "pickupDateMessage": "接下来，选择 周五, 9月 18 当天的签到时段：",
+      "date": "2026-09-18",
+      "fullPickupDateMessage": "接下来，选择 星期五, 九月 18 当天的签到时段：",
+      "month": "SEPTEMBER"
+    },
+    {
+      "dayOfWeek": "周六",
+      "monthValue": "9",
+      "dayOfMonth": "19",
+      "fullDayOfWeek": "星期六",
+      "displayDate": "",
+      "pickupDateMessage": "接下来，选择 周六, 9月 19 当天的签到时段：",
+      "date": "2026-09-19",
+      "fullPickupDateMessage": "接下来，选择 星期六, 九月 19 当天的签到时段：",
+      "month": "SEPTEMBER"
+    },
+    {
+      "dayOfWeek": "周日",
+      "monthValue": "9",
+      "dayOfMonth": "20",
+      "fullDayOfWeek": "星期日",
+      "displayDate": "",
+      "pickupDateMessage": "接下来，选择 周日, 9月 20 当天的签到时段：",
+      "date": "2026-09-20",
+      "fullPickupDateMessage": "接下来，选择 星期日, 九月 20 当天的签到时段：",
+      "month": "SEPTEMBER"
+    }
+  ],
+  "availableWindows": "可选时段",
+  "timeSlotWindows_sample": [
+    {
+      "18": [],
+      "18__count": 0
+    },
+    {
+      "19": [
+        {
+          "isRestricted": null,
+          "SlotId": "<REDACTED_SLOT_ID>",
+          "Label": "13:00 – 13:15",
+          "checkInEnd": "01:15 PM",
+          "checkInStart": "01:00 PM",
+          "signKey": "<REDACTED_SIGN_KEY>",
+          "timeZone": "Asia/Shanghai",
+          "timeSlotValue": "19-13:00-13:15"
+        },
+        {
+          "isRestricted": null,
+          "SlotId": "<REDACTED_SLOT_ID>",
+          "Label": "13:15 – 13:30",
+          "checkInEnd": "01:30 PM",
+          "checkInStart": "01:15 PM",
+          "signKey": "<REDACTED_SIGN_KEY>",
+          "timeZone": "Asia/Shanghai",
+          "timeSlotValue": "19-13:15-13:30"
+        }
+      ],
+      "19__count": 34
+    },
+    {
+      "20": [
+        {
+          "isRestricted": null,
+          "SlotId": "<REDACTED_SLOT_ID>",
+          "Label": "10:15 – 10:30",
+          "checkInEnd": "10:30 AM",
+          "checkInStart": "10:15 AM",
+          "signKey": "<REDACTED_SIGN_KEY>",
+          "timeZone": "Asia/Shanghai",
+          "timeSlotValue": "20-10:15-10:30"
+        },
+        {
+          "isRestricted": null,
+          "SlotId": "<REDACTED_SLOT_ID>",
+          "Label": "10:30 – 10:45",
+          "checkInEnd": "10:45 AM",
+          "checkInStart": "10:30 AM",
+          "signKey": "<REDACTED_SIGN_KEY>",
+          "timeZone": "Asia/Shanghai",
+          "timeSlotValue": "20-10:30-10:45"
+        }
+      ],
+      "20__count": 45
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+# ---- 隐私/密钥：绝不提交 ----
+# config/buyer.json    取货联系人 PII
+# config/proxies.json  含代理 key 与真实 IP
+config/buyer.json
+config/proxies.json
+
+# ---- 运行时产物 ----
+run.log
+*.log
+captures/*.local.json
+# scripts/nudge  Swift 编译产物，用 nudge.swift 现编
+scripts/nudge
+scripts/nudge.dSYM/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- 系统/编辑器 ----
+.DS_Store
+.claude/
+.vscode/
+.idea/

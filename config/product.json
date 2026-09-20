@@ -1,0 +1,48 @@
+{
+  "locked": true,
+  "phone": {
+    "partNumber": "MJYE4CH/A",
+    "basePartNumber": "MJYE4",
+    "family": "iPhone 18 Pro Max",
+    "familyType": "iphone18promax",
+    "name": "iPhone 18 Pro Max 512GB 冰川蓝色",
+    "color": "冰川蓝色",
+    "colorEn": "glacier",
+    "storage": "512GB",
+    "dimensionScreensize": "6_9inch",
+    "dimensionColor": "glacier",
+    "dimensionCapacity": "512gb",
+    "priceCNY": 12999,
+    "pdp": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+    "pdpConfigured": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro/mjye4ch/a",
+    "productUrl": "/shop/product/mjye4ch/a"
+  },
+  "appleCarePlus": {
+    "partNumber": "SHJL3CH/A",
+    "acpart": "SHJL3CH/A",
+    "compatibleWuip": "IPHONE18PROMAX",
+    "appleCareType": "acp",
+    "name": "适用于 iPhone 18 Pro Max 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)",
+    "priceCNY": 1799,
+    "productUrl": "/shop/product/shjl3ch/a",
+    "note": "iPhone 18 Pro 的对应 SKU 是 SHHY3CH/A，不要加错。acpart=none 是不加 AppleCare。"
+  },
+  "cart": {
+    "itemCount": 2,
+    "subtotalCNY": 14798,
+    "shipping": "免费",
+    "totalCNY": 14798,
+    "totalDisplay": "RMB 14,798",
+    "partsInCart": ["MJYE4CH/A", "SHJL3CH/A"]
+  },
+  "addToBag": {
+    "pdpAddToBag": "/shop/pdpAddToBag",
+    "selectButtonText": "继续",
+    "appleCareQueryParam": "acpart",
+    "appleCareValue": "SHJL3CH/A",
+    "appleCareDataUrl": "/shop/api/applecare/data?fae=true&step=select",
+    "appleCareStatesUrl": "/shop/api/applecare/states?step=select",
+    "updateSummary": "/shop/updateSummary?fae=true&node=home/shop_iphone/family/iphone_18_pro&step=select",
+    "note": "17:43 Reqable 片段不是 Apple 流量，pdpAddToBag 的完整 POST 字段名尚未抓到。当前 Safari 购物袋已含这两件，抢购阶段从结账页锁店即可。"
+  }
+}

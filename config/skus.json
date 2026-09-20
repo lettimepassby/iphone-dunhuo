@@ -1,0 +1,232 @@
+{
+  "airpods5": {
+    "partNumber": "MKFW4CH/A",
+    "name": "AirPods 5",
+    "priceCNY": 999,
+    "productUrl": "https://www.apple.com.cn/shop/product/mkfw4ch/a",
+    "note": "本次 Safari 完整跑通取货下单的商品"
+  },
+  "iphone18ProMax": {
+    "family": "iPhone 18 Pro Max",
+    "productPage": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+    "defaultPartNumber": "MJYE4CH/A",
+    "defaultName": "iPhone 18 Pro Max 512GB 冰川蓝色",
+    "parts": {
+      "MJY64CH/A": {
+        "storage": "256GB",
+        "color": "黑色",
+        "colorEn": "Black",
+        "price": 10999
+      },
+      "MJY74CH/A": {
+        "storage": "256GB",
+        "color": "银色",
+        "colorEn": "Silver",
+        "price": 10999
+      },
+      "MJY84CH/A": {
+        "storage": "256GB",
+        "color": "勃艮第酒红色",
+        "colorEn": "Burgundy",
+        "price": 10999
+      },
+      "MJY94CH/A": {
+        "storage": "256GB",
+        "color": "冰川蓝色",
+        "colorEn": "Glacier",
+        "price": 10999
+      },
+      "MJYA4CH/A": {
+        "storage": "512GB",
+        "color": "黑色",
+        "colorEn": "Black",
+        "price": 12999
+      },
+      "MJYC4CH/A": {
+        "storage": "512GB",
+        "color": "银色",
+        "colorEn": "Silver",
+        "price": 12999
+      },
+      "MJYD4CH/A": {
+        "storage": "512GB",
+        "color": "勃艮第酒红色",
+        "colorEn": "Burgundy",
+        "price": 12999
+      },
+      "MJYE4CH/A": {
+        "storage": "512GB",
+        "color": "冰川蓝色",
+        "colorEn": "Glacier",
+        "price": 12999
+      },
+      "MJYF4CH/A": {
+        "storage": "1TB",
+        "color": "黑色",
+        "colorEn": "Black",
+        "price": 16499
+      },
+      "MJYG4CH/A": {
+        "storage": "1TB",
+        "color": "银色",
+        "colorEn": "Silver",
+        "price": 16499
+      },
+      "MJYH4CH/A": {
+        "storage": "1TB",
+        "color": "勃艮第酒红色",
+        "colorEn": "Burgundy",
+        "price": 16499
+      },
+      "MJYJ4CH/A": {
+        "storage": "1TB",
+        "color": "冰川蓝色",
+        "colorEn": "Glacier",
+        "price": 16499
+      },
+      "MJYK4CH/A": {
+        "storage": "2TB",
+        "color": "黑色",
+        "colorEn": "Black",
+        "price": 21499
+      },
+      "MJYL4CH/A": {
+        "storage": "2TB",
+        "color": "银色",
+        "colorEn": "Silver",
+        "price": 21499
+      },
+      "MJYM4CH/A": {
+        "storage": "2TB",
+        "color": "勃艮第酒红色",
+        "colorEn": "Burgundy",
+        "price": 21499
+      },
+      "MJYN4CH/A": {
+        "storage": "2TB",
+        "color": "冰川蓝色",
+        "colorEn": "Glacier",
+        "price": 21499
+      }
+    },
+    "appleCarePartNumber": "SHJL3CH/A",
+    "locked": true
+  },
+  "iphone18Pro": {
+    "family": "iPhone 18 Pro",
+    "parts": {
+      "MJT74CH/A": {
+        "storage": "256GB",
+        "color": "黑色",
+        "price": 9999
+      },
+      "MJT84CH/A": {
+        "storage": "256GB",
+        "color": "银色",
+        "price": 9999
+      },
+      "MJT94CH/A": {
+        "storage": "256GB",
+        "color": "勃艮第酒红色",
+        "price": 9999
+      },
+      "MJTA4CH/A": {
+        "storage": "256GB",
+        "color": "冰川蓝色",
+        "price": 9999
+      },
+      "MJTC4CH/A": {
+        "storage": "512GB",
+        "color": "黑色",
+        "price": 11999
+      },
+      "MJTD4CH/A": {
+        "storage": "512GB",
+        "color": "银色",
+        "price": 11999
+      },
+      "MJTE4CH/A": {
+        "storage": "512GB",
+        "color": "勃艮第酒红色",
+        "price": 11999
+      },
+      "MJTF4CH/A": {
+        "storage": "512GB",
+        "color": "冰川蓝色",
+        "price": 11999
+      },
+      "MJTG4CH/A": {
+        "storage": "1TB",
+        "color": "黑色",
+        "price": 15499
+      },
+      "MJTH4CH/A": {
+        "storage": "1TB",
+        "color": "银色",
+        "price": 15499
+      },
+      "MJTJ4CH/A": {
+        "storage": "1TB",
+        "color": "勃艮第酒红色",
+        "price": 15499
+      },
+      "MJTK4CH/A": {
+        "storage": "1TB",
+        "color": "冰川蓝色",
+        "price": 15499
+      },
+      "MJTL4CH/A": {
+        "storage": "2TB",
+        "color": "黑色",
+        "price": 20499
+      },
+      "MJTM4CH/A": {
+        "storage": "2TB",
+        "color": "银色",
+        "price": 20499
+      },
+      "MJTN4CH/A": {
+        "storage": "2TB",
+        "color": "勃艮第酒红色",
+        "price": 20499
+      },
+      "MJTP4CH/A": {
+        "storage": "2TB",
+        "color": "冰川蓝色",
+        "price": 20499
+      }
+    }
+  },
+  "appleCarePlus": {
+    "iphone18ProMax": {
+      "partNumber": "SHJL3CH/A",
+      "acpart": "SHJL3CH/A",
+      "compatibleWuip": "IPHONE18PROMAX",
+      "name": "适用于 iPhone 18 Pro Max 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)",
+      "priceCNY": 1799,
+      "appleCareType": "acp"
+    },
+    "iphone18Pro": {
+      "partNumber": "SHHY3CH/A",
+      "acpart": "SHHY3CH/A",
+      "compatibleWuip": "IPHONE18PRO",
+      "name": "适用于 iPhone 18 Pro 的 AppleCare+ 服务计划 (同时加入 iPhone 年年焕新计划)",
+      "priceCNY": 1799,
+      "appleCareType": "acp",
+      "note": "不是目标 SKU"
+    },
+    "none": {
+      "acpart": "none",
+      "appleCareType": "noapplecare"
+    }
+  },
+  "cart": {
+    "parts": [
+      "MJYE4CH/A",
+      "SHJL3CH/A"
+    ],
+    "totalCNY": 14798,
+    "confirmedAt": "2026-09-13T17:50:00+08:00",
+    "source": "Safari checkout Fulfillment-init + bag init_data session 1789290872442821-60"
+  }
+}

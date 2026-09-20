@@ -1,0 +1,10 @@
+{
+  "lastName": "张",
+  "firstName": "三",
+  "emailAddress": "your-email@example.com",
+  "nationalIdSelf": "0000",
+  "selectFapiao": "e_personal_fdf",
+  "invoiceHeader": "",
+  "billing": "ALIPAY",
+  "note": "复制成 buyer.json 并改成你自己的取货联系人。nationalIdSelf 只填身份证后四位；手机号用 Apple ID 里已保存的，不在此传。selectFapiao=e_personal_fdf 为个人电子发票。billing=ALIPAY 走支付宝，下单后需在支付宝人工确认付款。"
+}

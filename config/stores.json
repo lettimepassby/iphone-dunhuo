@@ -1,0 +1,138 @@
+{
+  "targetStores": [
+    {
+      "storeId": "R471",
+      "name": "Apple 西湖",
+      "city": "杭州",
+      "state": "浙江",
+      "district": "上城区",
+      "searchInput": "浙江 杭州 上城区",
+      "street": "杭州市上城区平海路 100 号",
+      "phone": "4006171302",
+      "priority": 1
+    },
+    {
+      "storeId": "R532",
+      "name": "Apple 杭州万象城",
+      "city": "杭州",
+      "state": "浙江",
+      "district": "上城区",
+      "searchInput": "浙江 杭州 上城区",
+      "street": "杭州市上城区富春路 701 号",
+      "phone": "4006171304",
+      "priority": 2
+    },
+    {
+      "storeId": "R531",
+      "name": "Apple 天一广场",
+      "city": "宁波",
+      "state": "浙江",
+      "district": "海曙区",
+      "searchInput": "浙江 宁波 海曙区",
+      "street": "宁波市海曙区碶闸街 155 号 天一广场",
+      "phone": "4006139774",
+      "priority": 3
+    },
+    {
+      "storeId": "R678",
+      "name": "Apple 静安",
+      "city": "上海",
+      "state": "上海",
+      "district": "静安区",
+      "searchInput": "上海 上海 静安区",
+      "street": "上海市静安区南京西路 1699 号",
+      "phone": "4000003235",
+      "priority": 4
+    },
+    {
+      "storeId": "R401",
+      "name": "Apple 上海环贸 iapm",
+      "city": "上海",
+      "state": "上海",
+      "district": "徐汇区",
+      "searchInput": "上海 上海 徐汇区",
+      "street": "上海市徐汇区淮海中路 999 号 环贸 iapm 商场",
+      "phone": "4006171324",
+      "priority": 5
+    },
+    {
+      "storeId": "R359",
+      "name": "Apple 南京东路",
+      "city": "上海",
+      "state": "上海",
+      "district": "黄浦区",
+      "searchInput": "上海 上海 黄浦区",
+      "street": "上海市黄浦区南京东路 300 号",
+      "phone": "4006639988",
+      "priority": 6
+    },
+    {
+      "storeId": "R389",
+      "name": "Apple 浦东",
+      "city": "上海",
+      "state": "上海",
+      "district": "浦东新区",
+      "searchInput": "上海 上海 浦东新区",
+      "street": "上海市浦东新区陆家嘴世纪大道 8 号 上海国金中心 IFC 商场",
+      "phone": "4006171305",
+      "priority": 7
+    },
+    {
+      "storeId": "R390",
+      "name": "Apple 香港广场",
+      "city": "上海",
+      "state": "上海",
+      "district": "黄浦区",
+      "searchInput": "上海 上海 黄浦区",
+      "street": "上海市黄浦区淮海中路 282 号 香港广场北座",
+      "phone": "4006171312",
+      "priority": 8
+    },
+    {
+      "storeId": "R683",
+      "name": "Apple 环球港",
+      "city": "上海",
+      "state": "上海",
+      "district": "普陀区",
+      "searchInput": "上海 上海 普陀区",
+      "street": "上海市普陀区中山北路 3300 号",
+      "phone": "4006171335",
+      "priority": 9
+    },
+    {
+      "storeId": "R705",
+      "name": "Apple 七宝",
+      "city": "上海",
+      "state": "上海",
+      "district": "闵行区",
+      "searchInput": "上海 上海 闵行区",
+      "street": "上海市闵行区漕宝路 3366 号 七宝领展广场",
+      "phone": "4006139773",
+      "priority": 10
+    },
+    {
+      "storeId": "R581",
+      "name": "Apple 五角场",
+      "city": "上海",
+      "state": "上海",
+      "district": "杨浦区",
+      "searchInput": "上海 上海 杨浦区",
+      "street": "上海市杨浦区翔殷路 1099 号 上海合生汇",
+      "phone": "4006139771",
+      "priority": 11
+    }
+  ],
+  "search": {
+    "state": "浙江",
+    "city": "杭州",
+    "district": "上城区",
+    "provinceCityDistrict": "浙江 杭州 上城区",
+    "searchInput": "浙江 杭州 上城区",
+    "countryCode": "CN"
+  },
+  "rejectStores": {
+    "R688": "Apple 苏州（未要）",
+    "R574": "Apple 无锡恒隆广场（未要）"
+  },
+  "rejectSearchTokens": []
+}

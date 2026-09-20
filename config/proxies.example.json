@@ -1,0 +1,13 @@
+{
+  "_comment": "复制成 proxies.json 使用。direct=本机 IP。库存扫描走这些节点，结账始终走本机 Safari。可用 scripts/fetch_proxies.py 自动抓取免费代理刷新 nodes。青果短效代理请把 <YOUR_QG_KEY> 换成自己的 key（或用 APPLE_QG_URL 环境变量）。",
+  "source": [
+    "https://share.proxy.qg.net/get?key=<YOUR_QG_KEY>&num=2&format=json",
+    "https://www.kuaidaili.com/free/intr/1",
+    "https://proxy.scdn.io/text.php",
+    "https://api.proxyscrape.com/v4/free-proxy-list/get?request=displayproxies&protocol=http&timeout=10000&country=CN,HK,JP,SG,KR,TW&ssl=all&anonymity=all&format=text"
+  ],
+  "nodes": [
+    { "name": "direct" }
+  ],
+  "kicked": []
+}

@@ -1,0 +1,50 @@
+{
+  "searchInput": "浙江 杭州 上城区",
+  "selectStore": "R471",
+  "storeSelectedMetricVal": "RetailStoreSelected - list",
+  "retailSelectedString": "MKFW4",
+  "hangzhou_stores": [
+    {
+      "storeId": "R471",
+      "storeName": "Apple 西湖",
+      "storeDisabled": false,
+      "distance": "2.11 km",
+      "storeAvailability": "星期六 2026/09/19 可取货",
+      "lineItemAvailability": [
+        {
+          "partId": "e14766aa-1833-4cbf-8a19-516ea1e92403",
+          "availabilityQuote": "需要签到",
+          "availableNowForLine": false,
+          "partName": "AirPods 5"
+        }
+      ]
+    },
+    {
+      "storeId": "R532",
+      "storeName": "Apple 杭州万象城",
+      "storeDisabled": false,
+      "distance": "3.95 km",
+      "storeAvailability": "2026/09/20 可取货",
+      "lineItemAvailability": [
+        {
+          "partId": "e14766aa-1833-4cbf-8a19-516ea1e92403",
+          "availabilityQuote": "需要签到",
+          "availableNowForLine": false,
+          "partName": "AirPods 5"
+        }
+      ]
+    }
+  ],
+  "itemPickupQuote": {
+    "warmStateForPickup": true,
+    "quote": "<span class=text-alert>星期六 2026/09/19</span>；Apple 西湖",
+    "storeSelectorLinkText": "显示更多零售店",
+    "isPickupStoreAvailable": true,
+    "storeSelectorLinkTextA11y": "Show more stores near the postcode you entered",
+    "dudeAttributeQuote": "星期六 2026/09/19",
+    "dudeAttributeStore": "Apple 西湖",
+    "enableStoreSelectorLink": true,
+    "hasRemoveGiftMessageLink": false,
+    "pickupLabel": "立即订购。取货 (店内)："
+  }
+}

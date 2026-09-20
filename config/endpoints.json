@@ -1,0 +1,146 @@
+{
+  "origin": "https://secure6.www.apple.com.cn",
+  "storeOrigin": "https://www.apple.com.cn",
+  "pages": {
+    "checkout": "/shop/checkout",
+    "checkoutInterstitial": "/shop/checkout/interstitial",
+    "bag": "/shop/bag",
+    "buyIphone18Pro": "/shop/buy-iphone/iphone-18-pro",
+    "pdpConfigured": "/shop/buy-iphone/iphone-18-pro/mjye4ch/a"
+  },
+  "xhr": {
+    "fulfillment": "/shop/checkoutx/fulfillment",
+    "checkoutx": "/shop/checkoutx",
+    "billing": "/shop/checkoutx/billing",
+    "review": "/shop/checkoutx/review",
+    "session": "/shop/checkoutx/session",
+    "fulfillmentMessages": "/shop/fulfillment-messages",
+    "pickupMessage": "/shop/retail/pickup-message",
+    "bagx": "/shop/bagx",
+    "bagxCheckoutNow": "/shop/bagx/checkout_now",
+    "pdpAddToBag": "/shop/pdpAddToBag",
+    "appleCareData": "/shop/api/applecare/data",
+    "appleCareStates": "/shop/api/applecare/states",
+    "updateSummary": "/shop/updateSummary",
+    "recommendedForYou": "/shop/recommendedForYou-details"
+  },
+  "actions": {
+    "selectRetail": {
+      "_a": "selectFulfillmentLocationAction",
+      "_m": "checkout.fulfillment.fulfillmentOptions"
+    },
+    "selectState": {
+      "_a": "Selectstate",
+      "_m": "checkout.fulfillment.pickupTab.pickup.storeLocator.address.stateCitySelectorForCheckout"
+    },
+    "selectCity": {
+      "_a": "Selectcity",
+      "_m": "checkout.fulfillment.pickupTab.pickup.storeLocator.address.stateCitySelectorForCheckout"
+    },
+    "selectDistrict": {
+      "_a": "Selectdistrict",
+      "_m": "checkout.fulfillment.pickupTab.pickup.storeLocator.address.stateCitySelectorForCheckout"
+    },
+    "searchStores": {
+      "_a": "search",
+      "_m": "checkout.fulfillment.pickupTab.pickup.storeLocator"
+    },
+    "selectStore": {
+      "_a": "select",
+      "_m": "checkout.fulfillment.pickupTab.pickup.storeLocator"
+    },
+    "continueToPickupContact": {
+      "_a": "continueFromFulfillmentToPickupContact",
+      "_m": "checkout.fulfillment"
+    },
+    "locationConsent": {
+      "_a": "location-consent",
+      "_m": "checkout.locationConsent"
+    },
+    "extendSession": {
+      "_a": "extendSession",
+      "_m": "checkout.session"
+    },
+    "continueToBilling": {
+      "_a": "continueFromPickupContactToBilling",
+      "_m": "checkout.pickupContact"
+    },
+    "selectAlipay": {
+      "_a": "selectBillingOptionAction",
+      "_m": "checkout.billing.billingOptions"
+    },
+    "continueToReview": {
+      "_a": "continueFromBillingToReview",
+      "_m": "checkout.billing"
+    },
+    "placeOrder": {
+      "_a": "continueFromReviewToProcess",
+      "_m": "checkout.review.placeOrder",
+      "fallback_m": "checkout.review",
+      "successRedirect": "/shop/checkout/status",
+      "interstitial": "/shop/checkout/interstitial"
+    }
+  },
+  "headers": {
+    "syntax": "graviton",
+    "modelPage": "checkoutPage",
+    "stkHeader": "x-aos-stk",
+    "requestedWith": "Fetch",
+    "note": "Safari 同源 XHR 必须带 X-Requested-With: Fetch（或 XMLHttpRequest），否则 403 美区 404 HTML。"
+  },
+  "bagActions": {
+    "checkout": {
+      "_a": "checkout",
+      "_m": "shoppingCart.actions",
+      "url": "/shop/bagx/checkout_now?_a=checkout&_m=shoppingCart.actions"
+    },
+    "addToCartRecommended": {
+      "_a": "addToCart",
+      "_m": "shoppingCart.recommendations.recommendedItem",
+      "url": "/shop/bagx?_a=addToCart&_m=shoppingCart.recommendations.recommendedItem"
+    },
+    "locationConsent": {
+      "_a": "location-consent",
+      "_m": "shoppingCart.locationConsent",
+      "url": "/shop/bagx?_a=location-consent&_m=shoppingCart.locationConsent",
+      "drop": true
+    },
+    "storeLocatorView": {
+      "_a": "storeLocatorView",
+      "_m": "shoppingCart.items.{itemId}.delivery"
+    },
+    "selectState": {
+      "_a": "Selectstate",
+      "_m": "shoppingCart.items.{itemId}.delivery.lineDeliveryOptions.address.provinceCityDistrictTabs"
+    },
+    "selectCity": {
+      "_a": "Selectcity",
+      "_m": "shoppingCart.items.{itemId}.delivery.lineDeliveryOptions.address.provinceCityDistrictTabs"
+    },
+    "selectDistrict": {
+      "_a": "Selectdistrict",
+      "_m": "shoppingCart.items.{itemId}.delivery.lineDeliveryOptions.address.provinceCityDistrictTabs"
+    }
+  },
+  "modelPages": {
+    "cart": {
+      "x-aos-model-page": "cart",
+      "syntax": "graviton"
+    },
+    "checkout": {
+      "x-aos-model-page": "checkoutPage",
+      "syntax": "graviton"
+    }
+  },
+  "safari": {
+    "pickupSearchButton": "fulfillment-pickup-store-search-button",
+    "showMoreStoresButton": "show-more-stores-button",
+    "continueButton": "fulfillment-continue-button",
+    "storeRadioName": "store-locator-result",
+    "pickupSelectedText": "我要取货",
+    "oosText": "目前不可取货",
+    "regionOosText": "你所在的地区无货可取",
+    "continueWhenOos": "继续填写送货地址",
+    "continueWhenInStock": "continueFromFulfillmentToPickupContact"
+  }
+}
